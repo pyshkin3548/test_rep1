@@ -1,6 +1,7 @@
 import calendar
 
-print('Добро пожаловать в наш супер-пупер календарь\n')
+print('Добро пожаловать в наш супер-пупер balblablabalbalbalal 
+календарь\n')
 
 year = int(input('Пожлуйста, введите год: '))
 month = int(input('Введите номер любого месяца: '))
